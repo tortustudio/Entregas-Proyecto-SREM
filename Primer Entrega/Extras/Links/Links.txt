@@ -1,0 +1,12 @@
+Repositorio:
+https://github.com/tortustudio/Proyecto-SREM
+
+Presentación(Figma): 
+https://www.figma.com/proto/GsC6okukbuXWRlgg73oADU/Remises-pocitos?type=design&node-id=1-13&t=tjyKmMazQ6lrWWhq-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A13&mode=design
+
+Mapeado (Figma):
+https://www.figma.com/file/GsC6okukbuXWRlgg73oADU/Remises-pocitos?type=design&node-id=0%3A1&mode=design&t=25UQOLvtz4lklA69-1
+
+Página web(Hosteada):
+https://tortustudio.000webhostapp.com/Web%20Prueba%201/index.php
+

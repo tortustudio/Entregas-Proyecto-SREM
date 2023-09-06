@@ -1,0 +1,10 @@
+root:
+Nombre:root
+Contraseña:root
+
+administrador:
+Nombre:administrador
+Contraseña:1234
+
+La maquina virtual no se encuentra en el repositorio debido a que 
+GuitHub no permite archivos de un peso tan grande como el de la maquina virtual.
