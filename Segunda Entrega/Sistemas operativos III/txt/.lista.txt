@@ -1,0 +1,3 @@
+Cedula    - Forma  - Cantidad de dias 
+123456789 - Manual - Null
+98765431 - Automatico - 1
