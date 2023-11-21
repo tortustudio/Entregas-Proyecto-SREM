@@ -1,0 +1,7 @@
+Alta_grupo
+Baja_grupo
+Modificar_grupo
+Alta_usuario
+Baja_usuario
+Modificar_usuario
+Salir
